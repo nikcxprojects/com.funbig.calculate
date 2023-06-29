@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/boris/AndroidStudioProjects/FunBigCalculate/app/src/main/res/drawable/bg_background.xml" value="0.264" />
+        <entry key="..\:/Users/boris/AndroidStudioProjects/FunBigCalculate/app/src/main/res/drawable/round.xml" value="0.264" />
+        <entry key="..\:/Users/boris/AndroidStudioProjects/FunBigCalculate/app/src/main/res/drawable/solid.xml" value="0.264" />
+        <entry key="..\:/Users/boris/AndroidStudioProjects/FunBigCalculate/app/src/main/res/layout/activity_calculator.xml" value="0.33" />
+        <entry key="..\:/Users/boris/AndroidStudioProjects/FunBigCalculate/app/src/main/res/layout/activity_help.xml" value="0.33" />
+        <entry key="..\:/Users/boris/AndroidStudioProjects/FunBigCalculate/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/boris/AndroidStudioProjects/FunBigCalculate/app/src/main/res/layout/activity_theme.xml" value="0.28306159420289856" />
+        <entry key="..\:/Users/boris/AndroidStudioProjects/FunBigCalculate/app/src/main/res/layout/fragment_first.xml" value="0.25" />
+        <entry key="..\:/Users/boris/AndroidStudioProjects/FunBigCalculate/app/src/main/res/layout/fragment_four.xml" value="0.28306159420289856" />
+        <entry key="..\:/Users/boris/AndroidStudioProjects/FunBigCalculate/app/src/main/res/layout/fragment_second.xml" value="0.33" />
+        <entry key="..\:/Users/boris/AndroidStudioProjects/FunBigCalculate/app/src/main/res/layout/fragment_third.xml" value="0.28306159420289856" />
+        <entry key="..\:/Users/boris/AndroidStudioProjects/FunBigCalculate/app/src/main/res/mipmap-anydpi-v26/bg.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

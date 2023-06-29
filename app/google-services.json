@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "448128516996",
+    "project_id": "comfunbigcalculate",
+    "storage_bucket": "comfunbigcalculate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448128516996:android:c8f5819da10eae8afa53d1",
+        "android_client_info": {
+          "package_name": "com.funbig.calculate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448128516996-osdvcao8j9e26t2b46hddliinfo84psk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcK87hd3AIgU3qxPA3ur87j7VUbca90Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448128516996-osdvcao8j9e26t2b46hddliinfo84psk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

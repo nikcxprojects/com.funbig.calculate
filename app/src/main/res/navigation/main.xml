@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/firstFragment">
+
+    <fragment
+        android:id="@+id/firstFragment"
+        android:name="com.funbig.calculate.FirstFragment"
+        android:label="fragment_first"
+        tools:layout="@layout/fragment_first" />
+    <fragment
+        android:id="@+id/secondFragment"
+        android:name="com.funbig.calculate.SecondFragment"
+        android:label="SecondFragment" />
+    <fragment
+        android:id="@+id/fragmentThird"
+        android:name="com.funbig.calculate.FragmentThird"
+        android:label="FragmentThird" />
+    <fragment
+        android:id="@+id/fragmentFour"
+        android:name="com.funbig.calculate.FragmentFour"
+        android:label="FragmentFour" />
+</navigation>
